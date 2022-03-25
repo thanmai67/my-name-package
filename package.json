@@ -1,0 +1,13 @@
+{
+  "name": "@thanmai/package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },"repository": {
+    "url": "https://github.com/thanmai67/my-name-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
